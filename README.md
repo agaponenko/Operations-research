@@ -8,4 +8,10 @@ x<sub>12</sub> + x<sub>22</sub> + x<sub>32</sub> + x<sub>42</sub> = 1
 
 x<sub>13</sub> + x<sub>23</sub> + x<sub>33</sub> + x<sub>43</sub> = 1
 
-<p>x<sub>11</sub> &#8804 0</p>
+<p>x<sub>11</sub> &#8805 0</p>
+
+<p>x<sub>21</sub> &#8805 0</p>
+
+<p>x<sub>31</sub> &#8805 0</p>
+
+<p>x<sub>41</sub> &#8805 0</p>
