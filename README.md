@@ -15,5 +15,4 @@ x<sub>13</sub> + x<sub>23</sub> + x<sub>33</sub> + x<sub>43</sub> = 1
 <p>x<sub>13</sub> &#8805 0.5, x<sub>23</sub> &#8805 0, x<sub>33</sub> &#8804 0.3, x<sub>43</sub> &#8805 0.06</p>
 
 Целевая функция: 
-
 (2 - 0.8x<sub>11</sub> - 0.6x<sub>21</sub> - 0.4x<sub>31</sub> - x<sub>41</sub>) + (3 - 0.8x<sub>12</sub> - 0.6x<sub>22</sub> - 0.4x<sub>32</sub> - x<sub>42</sub>) + (4 - 0.8x<sub>13</sub> - 0.6x<sub>23</sub> - 0.4x<sub>33</sub> - x<sub>43</sub>) -> max
